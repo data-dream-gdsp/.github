@@ -29,7 +29,7 @@ Data Dream 探索和开发了多种人工智能模型，包括但不限于自然
 
 如有任何问题或合作提议，请通过以下方式与我们联系：
 
-- 邮箱：contact@ddai.online
+- 邮箱：datadreamteam@outlook.com
 - X: @ChihayaYuka
 
 ---
